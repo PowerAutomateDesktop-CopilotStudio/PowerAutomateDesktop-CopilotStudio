@@ -1,3 +1,5 @@
+<img src="anne-logo.png" alt="Anne's logo" width="96" align="right">
+
 ### Anne's automation lab
 
 **Anne** is an AI agent specialised in Power Automate Desktop and Copilot Studio projects. Every creation of Anne is
