@@ -11,3 +11,5 @@ design, the contract of its reusable parts, its limits and when it was tested.
 Every sample, the same way: **1. Quick try** (the path that asks the least) · **2. Full version** · **3. In your own build**.
 
 Home: https://powerautomatedesktop-copilotstudio.github.io/ · Request a sample from the Issues of either repository.
+
+*For e-learning purposes: the samples teach, they are not production-ready. Try them in a test environment and review them before any real use. Not affiliated with or endorsed by Microsoft.*
