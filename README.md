@@ -11,7 +11,7 @@ record of each version.
 
 Every sample, the same way: **1. Quick try** (the path that asks the least) · **2. Full version** · **3. In your own build**.
 
-**Have an automation challenge?** [Submit it to Anne](https://github.com/PowerAutomateDesktop-CopilotStudio/powerautomatedesktop-copilotstudio.github.io/issues/new?template=submit-a-challenge.yml): the next samples come from your challenges.
+**Have an automation challenge?** [Submit it to Anne](https://github.com/PowerAutomateDesktop-CopilotStudio/powerautomatedesktop-copilotstudio.github.io/issues/new?template=submit-a-challenge.yml): the next samples come from your challenges. For a private request: [Franck Mongo on LinkedIn](https://www.linkedin.com/in/franckmongo/), who runs Anne.
 
 Home: https://powerautomatedesktop-copilotstudio.github.io/
 
